@@ -1,0 +1,814 @@
+{
+    "root": {
+        "data": {
+            "id": "d2m266bi4b40",
+            "created": 1720634912037,
+            "text": "Activités",
+            "note": "DCA architecture : \n- rationale (pas mal)\n- concept map???\n\n\nscenario\n\n\nRéunion Chrisotphe : présentation SIA\n\nRéunion Cyprien : présentation Neural Factory\n\nRéunion Vincent : prépa agenda, objectif\n\nDiscussion Philippe Bougeard\n\nrentrer en courant",
+            "expandState": "expand"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "d2mips3cho80",
+                    "created": 1720681586111,
+                    "text": "TrustAI@SIX",
+                    "expandState": "collapse",
+                    "resource": [],
+                    "layout_mind_offset": {
+                        "x": -2.499999888241348,
+                        "y": -26.249998826533613
+                    }
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "d2xspagh0og0",
+                            "created": 1721826918345,
+                            "text": "internalisation de Confiance.AI ",
+                            "note": "réintégrer les \nTGS -> devait faire l'évaluation des sortie de Confiance.AI\nor ça n'est pas prévu\n\nChristophe Meyer : va en parler avec Royer.\n\n\nREcommandation de Christophe de faire une évaluation des sorties : faire une extraction des méthodologies\n\net faire une présentation à Bertrand\n-> financer par Cortaix.AI\n\n\n\n",
+                            "expandState": "expand"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "d3z1plextb40",
+                            "created": 1725610050582,
+                            "text": "Lire les standards",
+                            "layout_right_offset": {
+                                "x": 5.999999821186066,
+                                "y": 25.999999225139618
+                            },
+                            "expandState": "expand",
+                            "note": "Présentation Fateh!!!"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d3xkz0pa4xc0",
+                                    "created": 1725461270312,
+                                    "text": "lire concept paper EASA"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "d3z1pspmbko0",
+                                    "created": 1725610066466,
+                                    "text": "Lire les ISO"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "d41mpj39fbk0",
+                                    "created": 1725872408744,
+                                    "text": "doc ARP dans source TCS"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "d48m95kcnwo0",
+                            "created": 1726582045173,
+                            "text": "alignement DGA",
+                            "note": "TRT\n---------------\nDGA MI : qualification et certification d'algo IA\n-> demande de s'appuyer sur les travaux du standard de l'EuroCae\n(ML supervisé) pour les system safety critical.\n\nDGA : Alexandre Ervieux (a déjà déroulé une méthodo pour la DGA)\nLa DGA n'a pas les moyens de faire l'analyse des standards.\n\nils ne vont pas redéfinir un standard\n\nmessage \"réconciliation de l'analyse ML et l'analyse système\"\nMalicia (SRA Surveillance Radar Approach) exercice sur un système non critique pour expérimenter.\n\nDélimite du périmètre\nDiscrimination du niveau en fonction de la difficulté de l'algo\n\nIls ont fait entrer des gens de la safety dans la boucle.\n\nAutre objectif : ne pas laisser la DGA tout prendre pour la validation (données, modèles).\n\nOn veut aussi éviter de les laisser analyser le standard.\n\nPRS\n-----------------------\nadresse des équipes DGA du renseignement.\nmoins avancé sur la qualification.\nIl préfère donnéer au client la capacité de bencher les algos.\n\nReco Beatrice : assurer qu'on a un process commun.\n-> Antony : propose de \n\n-> Cyprien : utiliser l'initative TRT, racrocher la neural factory à l'IS."
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "d2mit4kt6y00",
+                    "created": 1720681848380,
+                    "text": "DCA RA",
+                    "resource": [],
+                    "expandState": "expand",
+                    "layout_mind_offset": {
+                        "x": 7.999999761581421,
+                        "y": -19.999999403953552
+                    }
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "d2mj7rbjgmo0",
+                            "created": 1720682994984,
+                            "text": "Productions",
+                            "expandState": "expand"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d2mjfr77pxk0",
+                                    "created": 1720683621636,
+                                    "text": "Concept map",
+                                    "expandState": "expand",
+                                    "note": "introduire la notion de domaine de connaissance qui ressemble à une fédération\n"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "d2mp2b1nyw00",
+                                            "created": 1720699494397,
+                                            "text": "Orchestrateur, Topologie, ",
+                                            "expandState": "expand"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "d2mp2yodeio0",
+                                            "created": 1720699545836,
+                                            "text": "domaine d'intérêt.  CoI",
+                                            "expandState": "expand"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "d2mp38lpadc0",
+                                            "created": 1720699567443,
+                                            "text": "Collaboration : parallélisme, coopération : série",
+                                            "expandState": "expand"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "d2mkfbsx3880",
+                                    "created": 1720686409230,
+                                    "text": "formaliser mes scenarios",
+                                    "expandState": "expand"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "d2mj7wu3a6o0",
+                            "created": 1720683006990,
+                            "text": "Primer DCA (Christophe)",
+                            "expandState": "expand"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d3vmqwr4dt40",
+                                    "created": 1725263157109,
+                                    "text": "data centric  vs data centricity",
+                                    "note": "data centric : l'ensemble des données comme point de départ. C'est ce qu'on vise.\n\ndata centricity : on utiliser les données pour produire de l'information (ce n'est qu'une question d'interop')."
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "d3t3w9nuda00",
+                            "created": 1725006856028,
+                            "text": "orchestration"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d3t3wg6utds0",
+                                    "created": 1725006870239,
+                                    "text": "orchestration sécu"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "d3vn5khqpiw0",
+                                    "created": 1725264305883,
+                                    "text": "chaine fonctionnelle distribuée",
+                                    "note": "Christophe a discuté avec E. Ledinot.\n\nsur délégation de fonction\n\n\nle + difficile est le monitoring des états.\n"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "d3vn0nz43dc0",
+                            "created": 1725263921643,
+                            "text": "creuser l'interopérabilité au sens steeches",
+                            "note": "https://apogee-research.com/stitches/"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "d3voluzsi6w0",
+                            "created": 1725268403680,
+                            "text": "Situation awareness : du systeme (monitoring)"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "d5303d4r0kg0",
+                            "created": 1729667885697,
+                            "text": "notes discussion Jerome Claveau"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "d67gv1iqby00",
+                            "created": 1733777590643,
+                            "text": "Faire une note DCA RA NATO",
+                            "expandState": "expand",
+                            "priority": 1
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d5303j0nxx40",
+                                    "created": 1729667898511,
+                                    "text": "etudier delta"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "d5303nsprgw0",
+                                            "created": 1729667908914,
+                                            "text": "data centric versus Net Centric Data strategy"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "d5303xw0m1s0",
+                                            "created": 1729667930882,
+                                            "text": "data centric versus service centric"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "d6anxa5wn540",
+                                    "created": 1734102193826,
+                                    "text": "Topic"
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "d2mitp8lzyo0",
+                    "created": 1720681893355,
+                    "text": "F126",
+                    "layout_mind_offset": {
+                        "x": -13.999999582767543,
+                        "y": 0
+                    },
+                    "expandState": "expand"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "d5rqxn3vx3s0",
+                            "created": 1732181046155,
+                            "text": "Nouvelle version du SMP",
+                            "note": "Cf. Mail d'Eric Allenne du 21/11\nLe faire avec Cay? ou un autre?\n\nIntégrer Daniel S. et Bruno ?\n\nrajouter une section sur la sélection de l'outil sur chacune des phases\n"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d620aqr07i00",
+                                    "created": 1733223062374,
+                                    "text": "ecrire un draft de As Is To Be sous forme de SWOT à Daniel et Bruno. "
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "d620b1ipejk0",
+                                    "created": 1733223085816,
+                                    "text": "Organiser le WS a GNV "
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "d6anvxcrjmo0",
+                                    "created": 1734102087579,
+                                    "text": "organiser déplacement",
+                                    "priority": 1
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "d6d9eurxns00",
+                                    "created": 1734365934106,
+                                    "text": "stratégie ",
+                                    "note": "motivation : \n(pour Eric) supporter l'IVVQ!!!\n"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "d6cztcmxm4w0",
+                            "created": 1734338858985,
+                            "text": "construire un plan"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d6cztfpbh480",
+                                    "created": 1734338865660,
+                                    "text": "récolter input projet : quand, alloc'"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "d6cztxb7ybk0",
+                                    "created": 1734338903989,
+                                    "text": "préparer alloc sur tache : Daniel S. sur IT, Bruno modélisation obj'?"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "d6czud9ldgw0",
+                                    "created": 1734338938719,
+                                    "text": "identifier dépendance et séquencement d'un plan"
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "d2mjbq9l0ls0",
+                    "created": 1720683306146,
+                    "text": "NDC",
+                    "expandState": "collapse"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "d2mjgzoioe80",
+                            "created": 1720683718461,
+                            "text": "concept map?",
+                            "expandState": "expand"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "d3lfulxvbj40",
+                            "created": 1724228099693,
+                            "text": "architecture de référence"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "d3z9mwpmdw00",
+                            "created": 1725632408960,
+                            "text": "Creuser mon uc data"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d48fnjir8u80",
+                                    "created": 1726563424880,
+                                    "text": "Note",
+                                    "note": "Objectif de William : offrire des plateforme d'échange de données plus temps réel que le NC1.\n\nCe que j'ai montré c'est le côté collaboratif\n-> permet de travailler sur un bus de communication pour des données pas forc\"ment structurés\n\n\nNicolas propose d'étendre avec d'autres effecteur basé sur des SI différents\n- ATLAS (artillerie)\n- Mortier (8 km)\n- Cesar (20 km)\n--> on pourrait imaginer faire une aide à la décision du meilleur effecteur\n--> transfert point à point IP entre com tactique inter GTIA (cf. OTAN)\n--> dans la bulle d'entraide (collaboration), on resterait sur un seul GTIA \n\nIdentifier les phases et les capacités nécessaires de collaboration (de regroupement) par phase.\n\nTravailler sur la charniere opérative / tactique par phase : \n- en temps réactifs, on est sur du tactique only.\n- on peut travailler sur de la consolidation d'information.\n\nAutres capacité : détection de départ de coups afin d'organiser la protection active.\n-> aujourd'hui on n'utilise qu'un capteur ce qui est limitant.\nEn infrastructure (i.e. sur le vehicule scorpion), on sait faire. Mais on ne sait pas faire en déplacement (serval, griffon) on ne sait pas partager.\n-> sortir les données de la vétronique\n-> ca pourrait être un cas d'usage de l'IA (caracteriser la situation ennemie)\n-> attention aux aspects temps reflex.\n\n\nAutre cas : les sources de videos qui viennent d'un satellite, d'un drone, d'un hélicoptère incl les traitements locaux\n\n\n\n\n"
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "d2mpv669mw00",
+                    "created": 1720701756352,
+                    "text": "SE Communauté",
+                    "expandState": "expand"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "d2mpvnfao2w0",
+                            "created": 1720701793903,
+                            "text": "Traduction SE Hbk",
+                            "expandState": "expand",
+                            "note": "Regarder nos consignes."
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "d2mpvvozaj40",
+                            "created": 1720701811903,
+                            "text": "CT3SAI - inconnu",
+                            "expandState": "expand"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d3tcnn7ru5s0",
+                                    "created": 1725031570243,
+                                    "text": "travailler sur le document",
+                                    "note": "faire un slide : approche par le soin, thérapeuthique\n\nLe metier de l'architecte : t'es payé pour quoi? Proposer des solutions intéressantes, qui amenent de la valeur\n\nUne méthode pour mieux adresser de la valeur, car les approches analytiques sont limitées (dans leurs couvertures, ...)\n\nla responsabilité de l'architecte?\n\ntraiter des milieux\n\nInterroger la relation au milieu plutôt que construire un système\n\n"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "d4jgvzlq1o80",
+                                    "created": 1727684067434,
+                                    "text": "carto controverse",
+                                    "hyperlink": "https://km2conseil.fr/2015/03/04/cartographie-des-controverses/",
+                                    "hyperlinkTitle": ""
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "d3t9ecxpbgo0",
+                            "created": 1725022379259,
+                            "text": "formation PLM à l'INSA"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d3vvcfws2bc0",
+                                    "created": 1725287413337,
+                                    "text": "préparer les cours!!!",
+                                    "priority": 4
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "d64hm538sf40",
+                            "created": 1733475034376,
+                            "text": "Ingénierie de la confiance",
+                            "note": "Qu'est ce que la confiance, qu'est ce que ça sous tend.\n\n\n\nEnvoyer un mail pour démarrer : \n1/ le cadrage\n\tproduit\n    le sujet\n    Couplage avece la connaissance\n    \n    la confiance est définie dans les standards. La question est de monter en maturité la pratique\n    -> Le voir avec la sûreté?\n    \n    \n2/ le recensement\n\tanimateur\n    les sources : iso définit la confiance\n    \n    personnes : \n    Chrystelle Johnson\n    Olivia à des gens côté IRT System X\n    Emilie Perraud\n    Kamel?\n    LGM -> Thibault MONTIGAUD Thibault <Thibault.MONTIGAUD@lgm.fr>\n    \n   \nuniversal paperclip : L'horreur existentielle de l'usine à trombones.\nhttps://www.youtube.com/watch?v=ZP7T6WAK3Ow\n\nhttps://hal.science/hal-04264027/document\n\n\n\n"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d6ce4mukbog0",
+                                    "created": 1734277678802,
+                                    "text": "invit",
+                                    "note": "invitation pour Février\n"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "d6ce4wahqlc0",
+                            "created": 1734277699356,
+                            "text": "S&SWI"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d6ce502og080",
+                                    "created": 1734277707591,
+                                    "text": "preparer prochain chair"
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "d2zis5fhqkg0",
+                    "created": 1722002051308,
+                    "text": "NGWS"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "d3pqkip1koo0",
+                            "created": 1724664581023,
+                            "text": "OAV",
+                            "expandState": "expand",
+                            "layout_left_offset": {
+                                "x": 2.9999999105928055,
+                                "y": 9.999996870756249
+                            }
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d4mu3l5tlnk0",
+                                    "created": 1728026017210,
+                                    "text": "Service management",
+                                    "expandState": "collapse"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "d4mu3p953hk0",
+                                            "created": 1728026026118,
+                                            "text": "quel est vraiment la valeur ajoutée\nbesoin de connaitre le système, la mission, le contexte",
+                                            "layout_left_offset": {
+                                                "x": -121.00000324845303,
+                                                "y": 27.999999165534987
+                                            }
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "d4mx0mg3j1s0",
+                                            "created": 1728034248245,
+                                            "text": "ils construisent des chaines fonctionnelles et la difficulté est de faire une allocation. "
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "d4mu3dijaq00",
+                                            "created": 1728026000566,
+                                            "text": "travail sur SOA vs. data centric"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "d5l0assjq8o0",
+                                    "created": 1731496547557,
+                                    "text": "Data Management",
+                                    "expandState": "expand"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "d3vxx2x371c0",
+                                            "created": 1725294672925,
+                                            "text": "Extraire info Operationnal Context",
+                                            "note": "Démarré.\nCf. l'extraction sous excel\n"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "d3xglcct09s0",
+                            "created": 1725448914141,
+                            "text": "Faire un rapport",
+                            "note": "Faire une carto des stakeholders\n- et de leur engagement.\n\nPosition Dassault : Fighter only. Le CC s'en fiche.\n- viser la valeur du NGWS (exmple de la safety et risque de collision du drone -> de calcul de trajectoire partage)\n\nPosition SIX : valeur mais orienté tactique\n\nDriver d'architecture : \n- situation awareness\n- orchestration\n- domaine à standardiser\n\nValeur: \n- on dépense du fric pour faire de la R&T tout en faisant attention à ne pas divulguer.\n- on fait plaisir à Dassault, tout en cherchant à identifier des opportunités : interop plateformes grace au combat cloud\n\n"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d5l0anec1uw0",
+                                    "created": 1731496535814,
+                                    "text": "carto des parties prenantes",
+                                    "note": "Done\nA récupérer des "
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "d5ssu3qht1s0",
+                            "created": 1732287971071,
+                            "text": "simulation",
+                            "note": "démarrer."
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d6ce5bgwrrc0",
+                                    "created": 1734277732396,
+                                    "text": "faire un dossier sur l'activité de Yann"
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "d42j95lzyo00",
+                    "created": 1725964222202,
+                    "text": "Admin"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "d42j9a7w0q80",
+                            "created": 1725964232233,
+                            "text": "préparer formation IHEDN"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "d5p6177pne00",
+                    "created": 1731918961793,
+                    "text": "ingénierie",
+                    "expandState": "expand"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "d2mjcb72h9c0",
+                            "created": 1720683351706,
+                            "text": "Arch@SIX",
+                            "expandState": "expand"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d2r1c3f4he00",
+                                    "created": 1721140354584,
+                                    "text": "Réduire ARCHEssential",
+                                    "note": "3 questions : on se fait un plan pour décembre.\n\n1 - réduire sur 1 jour pour broadcaster, massivement.\n\n- deja fait interview Olivier Kermagoret, Xavier Larderet.\n- Aborder quelles sont les compétences abordées dans celles qui sont nécessaires et celles qui sont fournies.\n- ce qui resort de l'annee précédente, l'intérêt c'est la compréhension du rôle. ca veut dire qu'il y a une mécompréhension du rôle. C'est fondamental.\n\n2 - 2 niveaux :\n\n- architecte at SIX c'est les 3 jours\n- architecte débutant, c'est 1 jour\n- On doit mettre des prios sur les compétences par niveau.\n\n3 - Interview - 30 min\n\n- est ce qu'architect@SIX leur suffit.\n- Est ce que c'est une prio.\n- Est ce qu'on modère pour faire du massif?\n- Est ce qu'on peut/doit réduire ou intensifier ?\n- par DT incl. secteur\n- incl. Valérie Lefèvre (SCT). Est ce qu'ils ont des besoins?\n- sur l'initiative de Cyrille et Daniel, nous souhaitons avoir un retour sur architecte.\n\nProposition : si on refait un plan pour massifier : \n\n- reduire un jour\n- on le fait par quelqu'un des BLs\n",
+                                    "expandState": "collapse"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "d3pq70s6xhc0",
+                                            "created": 1724663523297,
+                                            "text": "invitation DT",
+                                            "note": "Xavier\nOlivier\nVincent\nStéphane Pichon",
+                                            "layout_left_offset": {
+                                                "x": 6.249999720603228,
+                                                "y": 5.684341886080802e-14
+                                            },
+                                            "expandState": "expand"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "d3vwsfhwvtk0",
+                                                    "created": 1725291487374,
+                                                    "text": "HOD system ECC France"
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "id": "d3wrrvuiuao0",
+                                                            "created": 1725378899008,
+                                                            "text": "Xavier Boone"
+                                                        },
+                                                        "children": []
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "d3pq752vv0w0",
+                                                    "created": 1724663532651,
+                                                    "text": "invitation secteurs"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "d41mpvg2t8o0",
+                                            "created": 1725872435640,
+                                            "text": "note JL Wippler",
+                                            "note": "revoir les fondamentaux d'essentials \n\nsupprimer les cadres\n\nrevenir sur les outils \ncapabilities\ncomplexity profiler\npoint de vue\nattente/enjeux\n\nBesoin de former les VPs.\n\nNotes formés : il y a un mismatch entre ce qu'on leur apprend et ce qu'ils voient dans leur projet -> théorie mais je pense que c'est plus grave.\n\nAdvanced tel que dans les slides n'est pas interessant. Des outils d'ingé.\n-> il faudrait des outils tels que les KD/KG (arbres de décisions)\n\nIl manquerait architecture awareness\n\nCréation d'un relai dans les BU : surtout facile pour la formation mindset. Proposition de JL Wippler.\n\nretour des formés : \n- manques d'outils architectures (DJ (logbook architecte), OCD)\n\nIntroduction des KD/KG"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "d5yill0xnlk0",
+                                    "created": 1732868452071,
+                                    "text": "traiter mes notes"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "d5yiloued7c0",
+                                            "created": 1732868460383,
+                                            "text": "partager les templates"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "d6ce5nz8e140",
+                                    "created": 1734277759625,
+                                    "text": "envoyer videos"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "d5p64btes4g0",
+                            "created": 1731919206905,
+                            "text": "Collège"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d5p64gi5xvc0",
+                                    "created": 1731919217109,
+                                    "text": "Sensibilisation UAF",
+                                    "note": "Discussion Eric : \n- avoir une sensibilisation préliminaire\n- garder le slot de James Martin sur le mission AF et le raisonnement, ...\n\nintervention de Juan : \n- proposition le mercredi 22 janvier.\n"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "d6aotyurm280",
+                            "created": 1734104755226,
+                            "text": "utilisation des communautés"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d6aou48hm4w0",
+                                    "created": 1734104766939,
+                                    "text": "architecture de références"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "d6aou9va9tc0",
+                                    "created": 1734104779201,
+                                    "text": "architecture de l'entreprise : projet 3SAI"
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "d5r8df3f5fk0",
+                    "created": 1732128681451,
+                    "text": "connaissance",
+                    "note": "https://fr.wikipedia.org/wiki/Th%C3%A9orie_C-K\n\nProgram manager : devrait faire de l'enterprize architecting.\nAssocier toutes les personnes capables de faire le succès d'un programme. c'est la motivation de l'Enterprise architecting \n---> ce n'est pas un sujet engineering. C'est un sujet de développement.\n\n\n\n\n\n"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "d5rra3iplag0",
+                    "created": 1732182022250,
+                    "text": "today",
+                    "note": "Construire des planches pour réunion interpiliers\nQuoi amener à inter pilier\nune avancer sur le DM - définition.\n\ndes points d'études\n\n\nSCAF - Architecture vision.\nreunion cas opérationnel\nlire : https://ecm.corp.thales/livelink/llisapi.dll/overview/0001-0066998759/?name=Architecture\n\nLire document de Laurent le 8331?\n\nlire https://www.doctrine.af.mil/Portals/61/documents/AFDP_3-52/3-52-AFDP-AIRSPACE-CONTROL.pdf\n\nSAP\n"
+                },
+                "children": []
+            }
+        ]
+    },
+    "template": "default",
+    "theme": "fresh-blue",
+    "version": "1.4.43"
+}
