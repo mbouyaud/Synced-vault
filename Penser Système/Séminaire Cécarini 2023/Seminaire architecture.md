@@ -1,0 +1,2 @@
+es séances sont enregistrées.  Voici le lien de la chaine YouTube du séminaire: [https://www.youtube.com/@seminaire-JCBonne-PCeccarini]
+Généralement les séances se tiennent les 1er lundis de chaque mois avec l'EHESS et les 3ème lundis de chaque mois à l'ENSAPVS de 17h00 à 19h00.
