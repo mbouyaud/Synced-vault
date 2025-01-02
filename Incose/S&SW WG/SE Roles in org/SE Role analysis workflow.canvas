@@ -1,0 +1,35 @@
+{
+	"nodes":[
+		{"id":"42f7a22cdedec88b","x":-560,"y":-540,"width":600,"height":340,"type":"group","label":"Patterns composition"},
+		{"type":"text","text":"Create a population","id":"c88276bc835a7e6d","x":180,"y":0,"width":250,"height":60,"color":"3"},
+		{"type":"text","text":"Apply the metric on a population","id":"4e5945be778f9e3a","x":200,"y":160,"width":250,"height":60,"color":"6"},
+		{"type":"text","text":"Store metric in a shared library","id":"83023cb45c6f0c7e","x":-40,"y":160,"width":180,"height":60,"color":"5"},
+		{"type":"text","text":"Population source (scenario)","id":"802ee6fcf3223018","x":305,"y":-160,"width":250,"height":60,"color":"3"},
+		{"type":"text","text":"Create a pattern of organisation and roles","id":"6a981165876ed6f0","x":-760,"y":-100,"width":240,"height":60,"color":"3"},
+		{"type":"text","text":"Import organisation pattern","id":"f03ea8dfb009aaad","x":-470,"y":-100,"width":260,"height":60,"color":"3"},
+		{"type":"text","text":"Store organisation pattern in an organisation pattern shared library","id":"e9e73bd730509492","x":-120,"y":-115,"width":260,"height":90,"color":"3"},
+		{"type":"text","text":"Create a metric","id":"af7706b9ada4d7fd","x":-725,"y":160,"width":170,"height":60,"color":"5"},
+		{"type":"text","text":"Translate metric in aprocessable model","id":"e37a0f564a8e5abb","x":-450,"y":140,"width":220,"height":100,"color":"5"},
+		{"id":"fa1ad20556408dca","x":-680,"y":360,"width":450,"height":80,"type":"text","text":"Shared : accessible, understable, compatible with other patterns, activable in a running environment\n"},
+		{"id":"554d4101a3842afb","x":-680,"y":440,"width":450,"height":80,"type":"text","text":"library : code or graph?\nWhat is the link between Neo4J and Github?"},
+		{"id":"50cc1f72ddb84394","x":-1060,"y":-520,"width":385,"height":270,"type":"text","text":"Team likes excel but visual is cool too\nForm shall be in a Neo4J interpretable\n\nShall we support a composable pattern made of unitary pattern?\ni.e. pattern roles, pattern links, pattern processes\n-> then we need to manage composition\n**-> composition is easier to manage too**\n-> Do we need artefact/information nodes. At least, we need it as attributes"},
+		{"id":"1fcfa5e3e4986d2b","x":-540,"y":-520,"width":250,"height":60,"type":"text","text":"Pattern roles"},
+		{"id":"cb253b9f4af4c795","x":-230,"y":-430,"width":250,"height":60,"type":"text","text":"pattern roles interaction\nshall include : input, output"},
+		{"id":"7a7d9b166db9b58a","x":-540,"y":-315,"width":250,"height":90,"type":"text","text":"Patterns process \n(include input and output artefacts)"}
+	],
+	"edges":[
+		{"id":"58ac63815c30b8d4","fromNode":"6a981165876ed6f0","fromSide":"right","toNode":"f03ea8dfb009aaad","toSide":"left"},
+		{"id":"913e866c08e48882","fromNode":"af7706b9ada4d7fd","fromSide":"right","toNode":"e37a0f564a8e5abb","toSide":"left"},
+		{"id":"1f17071bca062e12","fromNode":"c88276bc835a7e6d","fromSide":"bottom","toNode":"4e5945be778f9e3a","toSide":"top"},
+		{"id":"b288408c23fbf2e9","fromNode":"e37a0f564a8e5abb","fromSide":"right","toNode":"83023cb45c6f0c7e","toSide":"left"},
+		{"id":"405fa215e719c027","fromNode":"83023cb45c6f0c7e","fromSide":"right","toNode":"4e5945be778f9e3a","toSide":"left"},
+		{"id":"15b04e1cc7171b28","fromNode":"802ee6fcf3223018","fromSide":"bottom","toNode":"c88276bc835a7e6d","toSide":"top"},
+		{"id":"8ffece4474090a48","fromNode":"f03ea8dfb009aaad","fromSide":"right","toNode":"e9e73bd730509492","toSide":"left"},
+		{"id":"30c8e73df0389df2","fromNode":"e9e73bd730509492","fromSide":"right","toNode":"c88276bc835a7e6d","toSide":"top"},
+		{"id":"5e21108be70a1619","fromNode":"50cc1f72ddb84394","fromSide":"bottom","toNode":"6a981165876ed6f0","toSide":"top"},
+		{"id":"9c865dfcd1b3477b","fromNode":"cb253b9f4af4c795","fromSide":"top","toNode":"1fcfa5e3e4986d2b","toSide":"right","label":"provides/receives"},
+		{"id":"af97049981dc5952","fromNode":"1fcfa5e3e4986d2b","fromSide":"bottom","toNode":"7a7d9b166db9b58a","toSide":"top","label":"Involves"},
+		{"id":"b900094aa9ed95fb","fromNode":"cb253b9f4af4c795","fromSide":"bottom","toNode":"7a7d9b166db9b58a","toSide":"right","fromEnd":"arrow","label":"Executes"},
+		{"id":"de4c927e9de26283","fromNode":"50cc1f72ddb84394","fromSide":"right","toNode":"42f7a22cdedec88b","toSide":"left"}
+	]
+}
